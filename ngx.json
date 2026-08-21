@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/s0beran0/ngx/releases/download/v0.1.2/ngx_0.1.2_windows_amd64_scoop.zip",
+            "bin": [
+                "ngx.exe"
+            ],
+            "hash": "c07bd201469c30cae376542332bbdcf56e19db0dc8c8ac62f10d7e070ea249f3"
+        },
+        "arm64": {
+            "url": "https://github.com/s0beran0/ngx/releases/download/v0.1.2/ngx_0.1.2_windows_arm64_scoop.zip",
+            "bin": [
+                "ngx.exe"
+            ],
+            "hash": "a4c0657d394d593b123760cb63d904e2f1f1e34132c2c141a8cff683199b42f3"
+        }
+    },
+    "homepage": "https://github.com/s0beran0/ngx",
+    "license": "MIT",
+    "description": "nginx CLI with structured output for agents and humans"
+}
