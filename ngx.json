@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/s0beran0/ngx/releases/download/v0.1.2/ngx_0.1.2_windows_amd64_scoop.zip",
+            "url": "https://github.com/s0beran0/ngx/releases/download/v0.2.0/ngx_0.2.0_windows_amd64_scoop.zip",
             "bin": [
                 "ngx.exe"
             ],
-            "hash": "c07bd201469c30cae376542332bbdcf56e19db0dc8c8ac62f10d7e070ea249f3"
+            "hash": "05d7b84b9ace6f84f9893466bb435ad2d3a41815c4f16535dbdff43c60b84bf0"
         },
         "arm64": {
-            "url": "https://github.com/s0beran0/ngx/releases/download/v0.1.2/ngx_0.1.2_windows_arm64_scoop.zip",
+            "url": "https://github.com/s0beran0/ngx/releases/download/v0.2.0/ngx_0.2.0_windows_arm64_scoop.zip",
             "bin": [
                 "ngx.exe"
             ],
-            "hash": "a4c0657d394d593b123760cb63d904e2f1f1e34132c2c141a8cff683199b42f3"
+            "hash": "e3982abe18dffb82ee1acb52b75d3dac024e509b5027a18962bc71e7f718775f"
         }
     },
     "homepage": "https://github.com/s0beran0/ngx",
